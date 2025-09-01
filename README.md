@@ -7,3 +7,12 @@
 ## Programming Interests
 **Favourite Programming Language:** Python\
 **Programming Language Currently Learning:** C
+## Ordered List:
+1. First Item
+2. Second
+3. Third
+## Unordered List:
+- First
+- Second
+- Third
+**_Bold and Italic_**
